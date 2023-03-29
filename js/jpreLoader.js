@@ -188,7 +188,7 @@
 			setCookie();	//create cookie
 			
 			if(jpreOptions.showPercentage) {
-				$(jPer).text("100%");
+				$(jPer).text("IEEE Education Week - 2023").css({'font-size':"70px",'line-height':"65px"});
 			}
 			
 			//fire debug mode

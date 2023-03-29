@@ -5165,8 +5165,7 @@ width:100%;
   width:100%;
 }
 
-	margin:5px;
-}
+
 
 /* clear fix */
 .grid:after {
@@ -5426,7 +5425,6 @@ outline:0;
 }
 
 .de-flex-wrap{
-	background: 
 	display: flex;
 	justify-content: space-between;
 }
